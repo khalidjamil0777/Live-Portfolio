@@ -2,7 +2,7 @@
 
 Personal portfolio of Khalid Jamil, a BCA graduate building a career as a SOC Analyst (L1).
 
-**Live:** https://khalid-portfolio-in.vercel.app
+**Live:** https://khalid-portfolio-org.vercel.app
 
 Plain HTML, CSS and JavaScript. No framework, no build step.
 
